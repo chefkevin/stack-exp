@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/stack-exp":{"guestpath":"/var/www/stack-exp","hostpath":"/home/kadda/work/miscs/stack-exp","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/home/kadda/work/miscs/stack-exp","disabled":false}}}
